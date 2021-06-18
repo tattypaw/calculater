@@ -1,0 +1,16 @@
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.exe
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.deps.json
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.json
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.dll
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ref\ConsoleApp6.dll
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.dll
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\ConsoleApp6.dll
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\mvideo\RiderProjects\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.AssemblyReference.cache
